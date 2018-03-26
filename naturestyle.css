@@ -2,8 +2,8 @@
 	list-style-type: none;
 	font-family: 'Pacifico', cursive;
 	margin: -2px;
-    padding: 30px;
-    font-size: 20px;
+        padding: 30px;
+        font-size: 20px;
 }
 .nav ul li {
 	padding: -1px;
@@ -34,18 +34,18 @@
 	z-index: 999;
 }
 .header {
-    background-color: #1b440bbf;
-    float: left;
-    width: 100%;
-    margin-top: -23px;
+	background-color: #1b440bbf;
+        float: left;
+        width: 100%;
+        margin-top: -23px;
 }
 .slide{
-	padding: 0px;
+       padding: 0px;
 }
 .blocksection {
-    float: left;
-    width: 100%;
-    padding:  40px ;
+      float: left;
+      width: 100%;
+      padding:  40px ;
 }
 .blocksection h3{
 	text-align: center;
@@ -54,8 +54,8 @@
 .blocksection h5{
 	text-align: center;
 }
-.block-one{
-	float: left;
+.block-one{ 
+    float: left;
     width: 100%;
     padding: 30px ;
     background-color: #eee;
