@@ -1,0 +1,87 @@
+.nav ul {
+	list-style-type: none;
+	font-family: 'Pacifico', cursive;
+	margin: -2px;
+    padding: 30px;
+    font-size: 20px;
+}
+.nav ul li {
+	padding: -1px;
+	margin-left: 58px;
+}
+.nav ul li a{
+	color: white;
+}
+.carousel-inner{
+	margin-top: -15px;
+}
+.block{
+	border-width: 2px;
+	border-color: red;
+}
+.block h6{
+	text-align: center;
+	text-decoration: bold;
+}
+.nav ul li .submenu {
+	display: none;
+}
+.nav ul li:hover .submenu {
+	display: block;
+}
+.submenu{
+	position: absolute;
+	z-index: 999;
+}
+.header {
+    background-color: #1b440bbf;
+    float: left;
+    width: 100%;
+    margin-top: -23px;
+}
+.slide{
+	padding: 0px;
+}
+.blocksection {
+    float: left;
+    width: 100%;
+    padding:  40px ;
+}
+.blocksection h3{
+	text-align: center;
+	padding: 20px;
+}
+.blocksection h5{
+	text-align: center;
+}
+.block-one{
+	float: left;
+    width: 100%;
+    padding: 30px ;
+    background-color: #eee;
+}
+.block-one h3{
+	text-align: center;
+}
+.block-one h5{
+	text-align: center;
+}
+.block img{
+	height: 200px;
+	width: 100%: 
+}
+.block p{
+	text-align: justify;
+}
+.fot blockquote{
+	text-align: center;
+	color: white;
+}
+.fot {
+    /* padding: 400px; */
+    background-color: #095f34a1;
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 58px 0px 0px 0px;
+}
